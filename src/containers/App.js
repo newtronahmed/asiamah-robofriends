@@ -4,7 +4,7 @@ import CardList from '../components/CardList';
 import Scroll from '../components/Scroll';
 import SearchBox from '../components/SearchBox';
 import './App.css';
-import {setSearchField} from '../action'
+// import {setSearchField} from '../action'
 
 
 class App extends Component {
